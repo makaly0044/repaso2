@@ -6,3 +6,4 @@ full stack
 switching and routing
 Ciberseguridad
 Etical hacking
+Agregando historia desde el colaborador
